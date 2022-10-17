@@ -1,5 +1,5 @@
 # Introdução
-Primeiro projeto de estudos de SQL desenvolvido no curso de Web Full Stack da Trybe.
+Primeiro projeto de estudos de SQL desenvolvido no curso de Web Full Stack da Trybe (Jun/2022).
 Os seguintes requisitos foram cumpridos:
 
 ```
